@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601115491 source:c:\users\andhika\downloads\tugas 2 sg (c)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
